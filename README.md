@@ -28,9 +28,7 @@ If you find this repo useful in your work or research, please cite:
 @misc{ahn2021spatial,
       title={A Spatial Guided Self-supervised Clustering Network for Medical Image Segmentation}, 
       author={Euijoon Ahn and Dagan Feng and Jinman Kim},
+      booktitle={International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2021)},
       year={2021},
-      eprint={2107.04934},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
 }
 ```
